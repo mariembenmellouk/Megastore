@@ -1,1 +1,1 @@
-# Megastore
+The goal of this project is to prepare and explore transactional data for an international retail store named Allias Megastore. This company wants to better understand its customers’ characteristics so it can more effectively target products and marketing campaigns toward its shoppers—thus resulting in improved profits for the company in the long term.
